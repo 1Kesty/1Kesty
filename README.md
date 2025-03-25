@@ -30,7 +30,7 @@ Meu foco é fornecer soluções escaláveis e automatizadas que agreguem valor �
 
 ---
 
-### 💻 Habilidades Técnicas
+## 💻 Habilidades Técnicas
 ### 🔹 Linguagens & Bancos de Dados
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
