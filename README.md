@@ -25,7 +25,7 @@ Com expertise em ETL, pipelines de dados, Machine Learning, Cloud Computing, e D
 
 Meu foco é fornecer soluções escaláveis e automatizadas que agreguem valor às organizações, ajudando-as a extrair insights estratégicos a partir dos dados. Estou sempre buscando formas de expandir meus conhecimentos e aplicar novas abordagens para o tratamento e análise de dados. 
 
-📍 **Santa Catarina, Brasil**  
+📍  **Santa Catarina, Brasil**  
 🎓 **Graduação em Ciências de Dados e Análise de Comportamento - UniCesumar (2023 - 2025)**  
 
 ---
