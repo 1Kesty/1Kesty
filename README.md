@@ -1,16 +1,22 @@
 <h1 align="center">Olá! Sou Victor Cardoso 👋</h1>
-<h3 align="center">Engenheiro de Dados</h3>
+<h3 align="center">Engenheiro de Dados | Apaixonado por Tecnologia e Inovação</h3>
 
+---
+## 📩 Minhas redes
 <p align="center">
   <a href="mailto:victormanoelcardosopbsc@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail">
   </a>
   <a href="https://www.linkedin.com/in/victor-cardoso-91353b286/">
-    <img src="https://img.shields.io/badge/LinkedIn-Victor%20Cardoso-blue?style=flat&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
   </a>
+  <a href="https://github.com/1kesty">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github">
+  </a>
+<a href="https://vcardosodataeng.vercel.app">
+  <img src="https://img.shields.io/badge/Website-blue?style=flat&logo=world" alt="Portfólio">
+</a>
 </p>
-
----
 
 ## 🏗 Sobre Mim
 Sou Victor Manoel Cardoso, Engenheiro de Dados com uma verdadeira paixão por transformar dados em informações valiosas. Minha principal motivação é encontrar soluções inovadoras e eficientes que ajudem a melhorar processos e otimizar a análise de dados em diferentes contextos.
